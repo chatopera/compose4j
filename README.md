@@ -10,8 +10,8 @@ Onion Model in Java
 
 ## Required
 
-* Maven
-* Java 8+
+- Maven
+- Java 8+
 
 ## Usage
 
@@ -29,8 +29,7 @@ Onion Model in Java
         print(context.getData());
 ```
 
-Checkout this [sample codes](https://github.com/chatopera/composer4j/blob/master/src/test/java/com/chatopera/compose4j/Compose4jTest.java) for details.
-
+Checkout this [sample codes](https://github.com/chatopera/compose4j/blob/master/src/test/java/com/chatopera/compose4j/Compose4jTest.java) for details.
 
 ## Contribute
 
@@ -39,6 +38,13 @@ cd compose4j
 mvn test
 ```
 
+## Knowledges
+
+[Java 8 Method Reference: How to Use it
+](https://www.codementor.io/eh3rrera/using-java-8-method-reference-du10866vx)
+
+[Understand The Onion Model
+](http://stal.blogspot.com/2008/07/onion-model.html)
 
 # License
 
